@@ -1,4 +1,4 @@
-[<к содержанию](./readeaboutgit.md)
+*[<к содержанию](./readeaboutgit.md)*
 
 The MIT License (MIT)
 Copyright © 2024 Vladimir Starkin

@@ -1,4 +1,4 @@
-[<к содержанию](./readeaboutgit.md)
+*[<к содержанию](./readeaboutgit.md)*
 
 ## ***Git commit***
 
